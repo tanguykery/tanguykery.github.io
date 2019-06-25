@@ -165,10 +165,8 @@ footer p {
 		flex-direction: column;
 	}
 	.sidebar {
-		background: linear-gradient(90deg,
-			rgba(249,107,142,1),
-			rgba(218,103,230,1),
-			rgba(130,125,253,1));
+		background: linear-gradient(
+			#00f260, #0575e6);
 			padding-top: 3em;
 
 	}
