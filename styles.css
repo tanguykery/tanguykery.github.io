@@ -68,7 +68,7 @@ nav li a {
 	letter-spacing: 4px;
 	font-size: 60%;
 	opacity: 0.6;
-	text-decoration: none;  /* Souligné ou pas */
+	text-decoration: none;  Souligné ou pas
 	transition: 0.3s;
 }
 
