@@ -44,6 +44,10 @@ body {
 	margin: 0;
 }
 
+img {	
+	filter: grayscale(100%)
+}
+
 nav ul{
 	margin: 0;
 	padding: 0;
